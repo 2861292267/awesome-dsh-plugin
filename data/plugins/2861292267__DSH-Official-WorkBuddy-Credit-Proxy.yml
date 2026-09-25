@@ -1,0 +1,6 @@
+url: https://github.com/2861292267/DSH-Official-WorkBuddy-Credit-Proxy
+name: 2861292267/DSH-Official-WorkBuddy-Credit-Proxy
+category: model
+description:
+  en: "Adapted build of XDTrees' dsh-workbuddy-xdpool for DSH 0.1.7: merges locally signed-in WorkBuddy accounts into one auto-failing-over model pool, plus boot-time account sync and an in-card QR sign-in."
+  zh: '基于 XDTrees/dsh-workbuddy-xdpool 的 0.1.7 适配版：把本机已登录的 WorkBuddy 账号合并成一条自动故障转移的模型池，并新增启动自动同步账号与卡片内扫码添加。'
